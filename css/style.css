@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-color: ;
+    background: url('../assets/ccs.png') no-repeat 0 0;
+    background-size: cover;
+    height: 100%;
+}
+
+.continue {
+    margin-bottom: 40px;
+}
+
+.badge {
+    margin-left: 54px;
+    margin-top: 21%;
+}
+
+.ccfc {
+    margin-top: px;
+}
+
+.landing {
+    align-items: Left;
+    margin-top: 15%;
+    color: yellow;
+}
