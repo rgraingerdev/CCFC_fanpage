@@ -7,7 +7,13 @@ body {
     height: 100%;
 }
 
+.navbar-brand {
+    margin-left: 20px;   
+}
+
 .continue {
+    border: 1px solid blue;
+    background-color: blue;
     margin-bottom: 40px;
 }
 
