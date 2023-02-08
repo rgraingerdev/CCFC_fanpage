@@ -1,33 +1,88 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 body {
-    background-color: ;
+    background-color: blue;
     background: url('../assets/ccs.png') no-repeat 0 0;
+    background-position: top center;
     background-size: cover;
-    height: 100%;
+    height: 100vh;
 }
 
 .navbar-brand {
     margin-left: 20px;   
 }
 
-.continue {
-    border: 1px solid blue;
-    background-color: blue;
-    margin-bottom: 40px;
+#badge {
+    border-radius: 50%;
+    margin-top: 35%;
 }
 
-.badge {
-    margin-left: 54px;
-    margin-top: 21%;
+.title {
+    margin-top: 20px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    color: blue; 
 }
 
-.ccfc {
-    margin-top: px;
+#players {
+    margin-top: 5vh;
+    margin-left: 3vw;
+    margin-right: 5px;
 }
 
-.landing {
-    align-items: Left;
-    margin-top: 15%;
-    color: yellow;
+.early {
+    border: 1px solid black;
+    background-color: aliceblue;
 }
+
+.early {
+    display: inline;
+    vertical-align: top;
+}
+
+.promotion {
+    margin-top: 5vh;
+    margin-left: 3vw;
+    margin-right: 5px;
+    border: 1px solid black;
+    background-color: aliceblue;
+    display: inline;
+    vertical-align: top;
+}
+
+#promoimg {
+    margin-top: 7vh;
+}
+
+.current {
+    margin-top: 5vh;
+    margin-left: 3vw;
+    margin-right: 5px;
+    background-color: aliceblue;
+    display: inline;
+    vertical-align: top;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.copywrite {
+    color: azure;
+    padding-left: 5px;
+}
+
+.socials {
+    color: azure;
+    size: 60px;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+
