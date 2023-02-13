@@ -22,45 +22,84 @@ body {
     font-family: "Quicksand", sans-serif;
     font-weight: 600;
     color: blue; 
+    text-align: center;
 }
 
 #players {
-    margin-top: 5vh;
+    margin-top: 2vh;
     margin-left: 3vw;
-    margin-right: 5px;
 }
 
 .early {
     border: 1px solid black;
+    margin-left: 3vw;
+    margin-top: 2vh;
+    margin-right: 5px;
     background-color: aliceblue;
-}
-
-.early {
     display: inline;
     vertical-align: top;
+    font-family: "Quicksand", sans-serif;
+}
+
+.earlyhead {
+    font-family: "quicksand", sans-serif;
+    font-weight: 600;
+    text-decoration: underline;
+
 }
 
 .promotion {
-    margin-top: 5vh;
-    margin-left: 3vw;
-    margin-right: 5px;
+    margin-top: 2vh;
+    margin-left: 5px;
+    margin-right: 2vh;
     border: 1px solid black;
     background-color: aliceblue;
-    display: inline;
     vertical-align: top;
+    font-family: "Quicksand", sans-serif;
+    margin-bottom: 0;
+}
+
+.test {
+    display: inline;
 }
 
 #promoimg {
-    margin-top: 7vh;
+    margin-top: 10px;
 }
 
 .current {
-    margin-top: 5vh;
+    margin-top: 2vh;
     margin-left: 3vw;
     margin-right: 5px;
     background-color: aliceblue;
     display: inline;
     vertical-align: top;
+    padding-bottom: 10px;
+    font-family: "Quicksand", sans-serif;
+    height: 150px;
+}
+
+#contactid {
+    background: azure;
+    margin-top: 30px;
+}
+
+.contact {
+    margin-top: 15px;
+    border: 1px solid black;
+    background: azure;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 33%;
+    margin-right:33%;
+    width: auto;
+}
+
+.subbutton {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: blue;
 }
 
 footer {
