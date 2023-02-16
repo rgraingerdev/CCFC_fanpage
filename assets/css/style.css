@@ -1,18 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 body {
-    background-color: blue;
-    background: url('../assets/ccs.png') no-repeat 0 0;
-    background-position: top center;
-    background-size: cover;
-    height: 100vh;
+  background: url('..//images/ccs.png') no-repeat 0 0;
+  background-position: top center;
+  background-color: rgba(3, 3, 3, 0.6);
+  background-blend-mode: darken;
+  background-size: cover;
+  height: auto;
+  font-family: "Quicksand", sans-serif;
 }
 
 .nav-link {
   display: inline;
   margin-right: 15px;
   text-align: left;
-
+  font-weight: 600;
 }
 
 i {
@@ -22,6 +24,7 @@ i {
 
 .navbar-brand {
     margin-left: 20px;   
+    font-weight: 700;
 }
 
 #badge {
@@ -37,6 +40,7 @@ i {
 
 #crest {
   border-radius: 50%;
+  size: 50%;
 }
 
 .title {
@@ -48,6 +52,7 @@ i {
     font-weight: 600;
     color: #0716DE; 
     text-align: center;
+    padding: 2px 2px 2px 2px;
 }
 
 #players {
@@ -60,6 +65,8 @@ i {
     margin-left: 3vw;
     margin-top: 2vh;
     margin-right: 5px;
+    padding: 10px;
+    justify-content: left;
     color: #0716DE;
     background-color: aliceblue;
     display: inline;
@@ -107,6 +114,7 @@ form {
     text-align: center;
     width: 100%;
     color: #0716DE;
+    
 }
 
 #contactid {
@@ -118,7 +126,7 @@ form {
     margin-top: 15px;
     border: 1px solid black;
     background: azure;
-    width: 50%;
+    width: 30%;
 }
 
 .subbutton {
@@ -179,7 +187,7 @@ footer {
   /*credit https://mdbootstrap.com/ */
 
   .horizontal-timeline .items {
-    border-top: 3px solid black;
+    border-top: 3px solid rgb(255, 255, 255);
   }
   
   .horizontal-timeline .items .items-list {
@@ -222,7 +230,12 @@ footer {
   }
 
   @media (max-width:550px) {
-    a {
+    body{
+      background-image: none;
+      background-color:#dee2e6;
+      
+    }
+    .navbar-nav a {
         font-size: 0px !important;
     }
   
@@ -232,4 +245,8 @@ footer {
     .nav-link {
       display: inline-flex;
     }
+    .contact {
+      width: 80%;
+    }
+
   }
