@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/style.css">
     <script src="https://kit.fontawesome.com/2c86cf2285.js" crossorigin="anonymous"></script>
     <title>CCFC History</title>
@@ -13,68 +16,87 @@
     <header>
       <nav class="navbar navbar-expand-lg navbar-light bg-primary">
         <a class="navbar-brand" href="index.html">CCFC</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">     
-              <ul class="navbar-nav">
-                <li class="nav-item active">
-                  <a class="nav-link" href="index.html"><i class="fa-solid fa-house"></i>Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="history.html"><i class="fa-solid fa-heart"></i>History</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="season.html"><i class="fa-brands fa-gg-circle"></i>Season</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.html"><i class="fa-solid fa-address-card"></i>Contact us</a>
-                </li>
-              </ul>
-          </nav>
+        <div class="collapse navbar-collapse" id="navbarNav">  
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html"><i class="fa-solid fa-house"></i>Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="history.html"><i class="fa-solid fa-heart"></i>History</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="season.html"><i class="fa-brands fa-gg-circle"></i>Season</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.html"><i class="fa-solid fa-address-card"></i>Contact us</a>
+            </li>
+          </ul>
+      </nav>
     </header>
     <section>
         <div class="container-fluid">
             <div class="d-flex"> 
                 <div class="d-flex align-self-start d-none d-lg-block">
-                    <img src="assets/images/players.jpg" alt="players" id="players">
+                    <img src="assets/images/1899.png" alt="players" id="players">
                 </div>
                 <div class="early d-flex align-self-center">
                   <div class="heading">
                     <h3 class="earlyhead">Early History</h3>
                     <p>Cardiff City Football Club (Welsh: Clwb Pêl-droed Dinas Caerdydd)
-                        is a professional association football club based in Cardiff, Wales.
+                        is a professional association football club based in Cardiff, Wales. Following a meeting at the home of lithographic artist Bartley Wilson in Cardiff, 
+                        the club was founded in 1899 as Riverside A.F.C. as a way of keeping players from the Riverside Cricket Club together and in shape during the winter months
                         It competes in the Championship, the second tier of the English football league system.
                         Founded in 1899 as Riverside A.F.C., the club changed its name to Cardiff City in 1908 and entered the Southern Football League in 1910 before joining the English Football League in 1920.
                         The team has spent 17 seasons in the top tier of English football, the longest period being between 1921 and 1929.</p>
+                    <p>In their first season, they played friendlies against local sides at their Sophia Gardens ground. In 1900 they joined the Cardiff & District League for their first competitive season. When King Edward VII granted Cardiff city status in 1905,
+                      the club put in a request to the South Wales and Monmouthshire Football Association to change their name to Cardiff City. 
+                      The request was turned down as they were deemed not to be playing at a high enough level. To enhance their standing,
+                      the team arranged to join the South Wales League in 1907. The following year they were granted permission to change the name of the club to Cardiff City.</p>
+                    <p>Although growing in stature, the club was forced to turn down the opportunity to join the newly formed Second Division of the Southern Football League due to a lack of facilities at their Sophia Gardens ground.
+                       Over the next two years, Cardiff played friendlies against some of Britain's top professional sides, including Middlesbrough, Bristol City, and Crystal Palace.
+                       The matches were played at grounds in Cardiff and nearby towns so as to gauge the level of public interest in the team.[8] The club eventually secured land to build their own stadium, Ninian Park, which was completed in 1910. The club turned professional the same year.
+                       They made their first signing the following year with the acquisition of Jack Evans from fellow Welsh side Cwmparc</p>
                   </div>
                 </div>            
             </div>
             <div class="d-flex">
                 <div class="early d-flex justify-content-start">
                   <div class="heading">
-                    <h3 class="earlyhead">A moment in history</h3>
-                    <p>In October 2016, Neil Warnock was appointed first team manager of Cardiff.Warnock took over the team with Cardiff second from the bottom of the table after two wins from eleven games,
-                        and guided the side to a 12th-placed finish after a good run of form.The start of the 2017–18 season saw Cardiff break a club record by winning their opening three league games of a season,
-                        the first time in the club's 107-year professional history.
-                        They proceeded to clinch promotion to the Premier League after finishing second in the table.However,
-                        hey were relegated back to the Championship after a single season.</p>
+                    <h3 class="earlyhead">2000 to Present</h3>
+                    <p>In August 2000, Lebanese businessman Sam Hammam purchased control of the club and replaced Steve Borley as chairman. Shortly after taking over,
+                       he controversially pledged to get the entire Welsh nation to support Cardiff by renaming the club "The Cardiff Celts" and changing the club colours to green,
+                       red and white. After lengthy talks with senior players and fans, he decided the best policy was not to change the name of the club. The club crest was redesigned;
+                       the new design incorporated the Cardiff City bluebird in front of the Flag of Saint David and featured the club's nickname superimposed at the top of the crest.
+                       Hammam funded the transfers of several new players to the club, and new manager Lennie Lawrence guided Cardiff to promotion when they won the Second Division play-off in 2003 against Queens Park Rangers.
+                       Substitute Andy Campbell came off the bench to score the only goal in extra time and ensure Cardiff's return to Division One after an 18-year absence</p>
+                    <p>In May 2010, Datuk Chan Tien Ghee took over as club chairman following a takeover bid by a Malaysian consortium; Vincent Tan also invested and joined the board. Tan later became the Cardiff's majority shareholder after buying out several other directors and acquired around 82% of the club's shares.
+                       In 2011, the club appointed Malky Mackay as manager. He took the side to the League Cup final for the first time in the club's history during his first season. The following season, Cardiff won the 2012–13 Championship title and with it gained promotion to the top tier of English football for the first time after 52 years.
+                       On 18 August 2013, Cardiff played their first ever away Premier League match against West Ham United, losing 2–0. Cardiff won only three games in the first half of the season and, on 27 December 2013, Mackay was sacked by Vincent Tan and replaced by Ole Gunnar Solskjær. Despite the change in management,
+                      Cardiff were relegated to the Championship after a single season following a 3–0 away defeat to Newcastle United. Solskjær himself was sacked on 18 September 2014 after a disappointing start to the following Championship season, and replaced by Leyton Orient manager Russell Slade.</p>
                   </div>
             </div>
                 <div class="d-flex justify-content-end  d-none d-lg-block" id="promoimg">
-                    <img src="assets/images/champions.jpg" alt="Promotion">
+                    <img src="assets/images/ninianpark.png" alt="Promotion">
                 </div>
             </div>
             <div class="d-flex">
-                <div class="current d-flex align-self-start d-none d-lg-block">
-                    <img src="assets/images/current.jpg" alt="current">
+                <div class="champions d-flex align-self-start d-none d-lg-block">
+                    <img src="assets/images/champions.jpg" alt="current">                    
                 </div>
                 <div class="early d-flex align-self-center">
                   <div class="heading">
-                    <h3 class="earlyhead">Current Season</h3>
-                    <p>After a poor start to the current season under manager Steve Morrison currently sat at the botom half of the Championship.
-                        Morrison was replaced in December by Mark Hudson whos poor run placed Cardiff 3 points outside the relegation zone.
-                        again Cardiff acted swiftly and replaced hudson with Sabri lamouchi who is aiming at guiding City to saftey. </p>
+                    <h3 class="earlyhead">Moments in History</h3>
+                    <p>Cardiff is the only team from outside England to have won the FA Cup, doing so in 1927. They have also reached three other cup finals in English competitions,
+                      the 1925 FA Cup Final against Sheffield United, the 2008 FA Cup Final against Portsmouth and the 2012 Football League Cup Final against Liverpool, suffering defeat on each occasion.
+                      They have won the Welsh Cup on 22 occasions, making them the second-most successful team in the competition's history behind Wrexham.</p>
+                    <p>In October 2016, Neil Warnock was appointed first team manager of Cardiff.
+                       Warnock took over the team with Cardiff second from the bottom of the table after two wins from eleven games,
+                       and guided the side to a 12th-placed finish after a good run of form. The start of the 2017–18 season saw Cardiff break a club record by winning their opening three league games of a season,
+                       the first time in the club's 107-year professional history. They proceeded to clinch promotion to the Premier League after finishing second in the table.
+                       However, they were relegated back to the Championship after a single season</p>
                   </div>
                 </div>
               </div>

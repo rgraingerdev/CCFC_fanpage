@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
+
+/*-------------------------Static header/footers------------------------------------*/
+
 body {
   background: url('..//images/ccs.png') no-repeat 0 0;
   background-position: top center;
   background-color: rgba(3, 3, 3, 0.6);
   background-blend-mode: darken;
   background-size: cover;
-  height: auto;
+  height: 100%;
   font-family: "Quicksand", sans-serif;
 }
 
@@ -27,21 +30,93 @@ i {
     font-weight: 700;
 }
 
-#badge {
-    border-radius: 50%;
-    margin-top: 35%;
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 0;
+  padding-bottom: 0;
+  text-align: center;
 }
 
-.crest {
-  margin-right: 25%;
-  height: 300px;
-  width: 300px;
+
+.copywrite {
+  color: azure;
+  padding-left: 5px;
+}
+
+.socials {
+  color: azure;
+  size: 60px;
+  list-style-type: none;
+  text-decoration: none;
+  padding: 10px;
+}
+
+/*----------------------------------------images------------------------------------------------*/
+
+#badge {
+  border-radius: 50%;
+  margin-top: 35%;
 }
 
 #crest {
+  margin: 0;
+  align-self: center;
   border-radius: 50%;
   size: 50%;
 }
+
+#players {
+  margin-top: 2vh;
+  margin-left: 3vw;
+  height: 50%;
+  width: 95%;
+}
+
+.promotion {
+  margin-top: 2vh;
+  margin-left: 5px;
+  margin-right: 3vh;
+  border: 1px solid black;
+  background-color: aliceblue;
+  vertical-align: top;
+  font-family: "Quicksand", sans-serif;
+  margin-bottom: 0;
+  }
+
+#promoimg {
+  margin-top: 10px;
+}
+
+.champions {
+  margin-top: 2vh;
+  margin-left: 3vw;
+  margin-right: 5px;
+  background-color: aliceblue;
+  display: inline;
+  vertical-align: top;
+  padding-bottom: 10px;
+  font-family: "Quicksand", sans-serif;
+  max-width: 50%;
+
+}
+
+.stadiumstats {
+  margin-top: 8vh;
+}
+
+.table {
+  display: inline-block;
+  margin-left: 4vw;
+}
+
+.map {
+  margin-right: 4vw;
+}
+
+/*--------------------page elements------------------------------------------*/
 
 .title {
     border: 1px solid black;
@@ -55,10 +130,6 @@ i {
     padding: 2px 2px 2px 2px;
 }
 
-#players {
-    margin-top: 2vh;
-    margin-left: 3vw;
-}
 
 .early {
     border: 1px solid black;
@@ -81,41 +152,17 @@ i {
 
 }
 
-.promotion {
-    margin-top: 2vh;
-    margin-left: 5px;
-    margin-right: 3vh;
-    border: 1px solid black;
-    background-color: aliceblue;
-    vertical-align: top;
-    font-family: "Quicksand", sans-serif;
-    margin-bottom: 0;
-}
-
-#promoimg {
-    margin-top: 10px;
-}
-
-.current {
-    margin-top: 2vh;
-    margin-left: 3vw;
-    margin-right: 5px;
-    background-color: aliceblue;
-    display: inline;
-    vertical-align: top;
-    padding-bottom: 10px;
-    font-family: "Quicksand", sans-serif;
-    height: 150px;
-}
-
 form {
     font-family: "Quicksand", sans-serif;
     font-weight: 500;
     text-align: center;
     width: 100%;
     color: #0716DE;
-    
+   
 }
+
+
+/*----------------------------contact form-----------------------------------*/
 
 #contactid {
     background: azure;
@@ -126,7 +173,7 @@ form {
     margin-top: 15px;
     border: 1px solid black;
     background: azure;
-    width: 30%;
+    width: 50%;
 }
 
 .subbutton {
@@ -135,118 +182,105 @@ form {
     color: blue;
 }
 
-.table {
-  display: inline-block;
-  margin-left: 4vw;
-}
-
-.map {
-  margin-right: 4vw;
-}
-
-.stadiumstats {
-  margin-top: 8vh;
-}
-
-footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    padding-top: 0;
-    padding-bottom: 0;
-    text-align: center;
+.upcoming {
+  margin-top: 20px;
+  display: block;
+  text-align: center;
 }
 
 
-.copywrite {
-    color: azure;
-    padding-left: 5px;
+/*-----------------------------------timeline------------------------------------------*/
+
+.timeline {
+  margin-top: 15px;
+  font-family: "Quicksand", sans-serif;
+  color: #0716DE;
+  align-items: center;
 }
 
-.socials {
-    color: azure;
-    size: 60px;
-    list-style-type: none;
-    text-decoration: none;
-    padding: 10px;
+.px-4 {
+  border: 1px solid black;
+  background-color: azure;
 }
 
-  .timeline {
-    margin-top: 30px;
-    font-family: "Quicksand", sans-serif;
-    color: #0716DE;
-    align-items: center;
-  }
+.horizontal-timeline .items {
+  border-top: 3px solid rgb(255, 255, 255);
+}
 
-  .px-4 {
-    border: 1px solid black;
-    background-color: azure;
-  }
+.horizontal-timeline .items .items-list {
+  display: block;
+  position: relative;
+  text-align: center;
+  padding-top: 70px;
+  margin-right: 0;
+}
 
-  /*credit https://mdbootstrap.com/ */
+.horizontal-timeline .items .items-list:before {
+  content: "";
+  position: absolute;
+  height: 36px;
+  border-right: 2px dashed #dee2e6;
+  top: 0;
+}
 
-  .horizontal-timeline .items {
-    border-top: 3px solid rgb(255, 255, 255);
-  }
-  
+.horizontal-timeline .items .items-list .event-date {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  right: 0;
+  width: 75px;
+  margin: 0 auto;
+  font-size: 0.9rem;
+  padding-top: 8px;
+}
+
+
+/*------------------------------Media Quireys----------------------------------*/
+
+@media (min-width: 1140px) {
   .horizontal-timeline .items .items-list {
-    display: block;
-    position: relative;
-    text-align: center;
-    padding-top: 70px;
-    margin-right: 0;
+    display: inline-block;
+    width: 24%;
+    padding-top: 45px;
   }
- 
-  .horizontal-timeline .items .items-list:before {
-    content: "";
-    position: absolute;
-    height: 36px;
-    border-right: 2px dashed #dee2e6;
-    top: 0;
+  .contact {
+    width: 30%;
   }
-  
   .horizontal-timeline .items .items-list .event-date {
-    position: absolute;
-    top: 36px;
-    left: 0;
-    right: 0;
-    width: 75px;
-    margin: 0 auto;
-    font-size: 0.9rem;
-    padding-top: 8px;
+    top: -40px;
   }
-  
-  @media (min-width: 1140px) {
-    .horizontal-timeline .items .items-list {
-      display: inline-block;
-      width: 24%;
-      padding-top: 45px;
-    }
-  
-    .horizontal-timeline .items .items-list .event-date {
-      top: -40px;
-    }
-  }
+}
 
-  @media (max-width:550px) {
-    body{
-      background-image: none;
-      background-color:#dee2e6;
-      
-    }
-    .navbar-nav a {
-        font-size: 0px !important;
-    }
-  
-    a i {
-        font-size: 20px !important;
-     }
-    .nav-link {
+@media screen and(min-width:540px)
+and (max-width:1024px) {
+  body{
+    background-image: none;
+    background-color:#88bef3;
+    
+  }
+  .nav-link {
       display: inline-flex;
     }
-    .contact {
+  .contact {
       width: 80%;
-    }
-
   }
+ 
+}
+
+@media (max-width:540px) {
+  body {
+    background-image: none;
+    background-color:#88bef3;
+  }
+  
+  a i {
+      font-size: 20px !important;
+    }
+  .nav-link {
+    display: inline-flex;
+  }
+  .contact {
+    width: 70%;
+  }
+
+}
