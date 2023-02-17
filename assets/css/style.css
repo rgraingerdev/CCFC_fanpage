@@ -2,15 +2,22 @@
 
 
 /*-------------------------Static header/footers------------------------------------*/
+html {
+  position: relative;
+  min-height: 100%;
+}
 
 body {
   background: url('..//images/ccs.png') no-repeat 0 0;
-  background-position: top center;
+  background-position: center center;
   background-color: rgba(3, 3, 3, 0.6);
   background-blend-mode: darken;
   background-size: cover;
   height: 100%;
   font-family: "Quicksand", sans-serif;
+  margin-bottom: 60px;
+
+  
 }
 
 .nav-link {
@@ -54,6 +61,10 @@ footer {
   padding: 10px;
 }
 
+.bottom {
+  margin-bottom: 20px;
+}
+
 /*----------------------------------------images------------------------------------------------*/
 
 #badge {
@@ -61,11 +72,13 @@ footer {
   margin-top: 35%;
 }
 
+.clubcrest {
+  display: grid;
+  justify-content: center;
+}
+
 #crest {
-  margin: 0;
-  align-self: center;
   border-radius: 50%;
-  size: 50%;
 }
 
 #players {
@@ -99,7 +112,7 @@ footer {
   vertical-align: top;
   padding-bottom: 10px;
   font-family: "Quicksand", sans-serif;
-  max-width: 50%;
+  max-width: 100%;
 
 }
 
@@ -251,8 +264,7 @@ form {
   }
 }
 
-@media screen and(min-width:540px)
-and (max-width:1024px) {
+@media screen and (max-width:1024px) {
   body{
     background-image: none;
     background-color:#88bef3;
