@@ -75,6 +75,7 @@ footer {
 .clubcrest {
   display: grid;
   justify-content: center;
+  margin-right: 19.5%;
 }
 
 #crest {
