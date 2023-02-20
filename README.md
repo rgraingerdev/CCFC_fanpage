@@ -59,7 +59,7 @@ to test with the device open.
 confirming site is responsive on the fold i continued testing and moved onto desktop testing with MS Edge
 
 ![Desktop Home](assets/Screenshots/desktop_dis_home.png)
-![Desktop History](assets/Screenshots/desktop_dis_history.png)
+![Desktop History](assets/Screenshots/Desktop_dis_history.png)
 ![Desktop season](assets/Screenshots/desktop_dis_season.png)
 ![Desktop contact](assets/Screenshots/desktop_dis_contact.png)
 
