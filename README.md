@@ -1,2 +1,2 @@
-<img src="assets/images/Cardiff_City_Fanpage" alt="banner">
+![Image text](assets/images/Cardiff_City_Fanpage)
 <img src="assets/Screenshots/W3C CSS Validator results.png">
