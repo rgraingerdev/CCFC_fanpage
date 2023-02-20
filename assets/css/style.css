@@ -222,6 +222,7 @@ form {
   border: 1px solid black;
   background-color: azure;
   border-radius: 25px;
+  padding-bottom: 5px;
 }
 
 .horizontal-timeline .items {
