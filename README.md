@@ -1,2 +1,1 @@
-![Image text](assets/images/Cardiff_City_Fanpage)
-<img src="assets/Screenshots/W3C CSS Validator results.png">
+![Cardiff city](assets/images/Cardiff_City_Fanpage.png)
