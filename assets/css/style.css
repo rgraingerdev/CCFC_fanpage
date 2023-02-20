@@ -135,6 +135,14 @@ font-size: 0;
   margin-right: 4vw;
 }
 
+.learn {
+  border: 1px solid black;
+  background-color: azure;
+  margin-top: 30px;
+  justify-content: center;
+  padding: 0;
+}
+
 /*--------------------page elements------------------------------------------*/
 
 .title {
@@ -274,26 +282,18 @@ form {
 }
 
 @media screen and (max-width:1024px) {
-  body{
-    background-image: none;
-    background-color:#88bef3;
-    
-  }
-  .nav-link {
-      display: inline-flex;
-    }
   .contact {
       width: 80%;
   }
- 
+  .table {
+    display: none;
+  }
+  .medalign {
+    justify-content: center;
+  }
 }
 
 @media (max-width:540px) {
-  body {
-    background-image: none;
-    background-color:#88bef3;
-  }
-  
   a i {
       font-size: 20px !important;
     }
