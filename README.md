@@ -36,13 +36,13 @@ Bugs during writing were identified and corrected. A tricky bug to resolve was t
 
 **i started with mobile testing with the iphone and galaxy fold
 
-![iphone home](assets/Screenshots/iphone_home.png)
+![iphone home](assets/Screenshots/iphone_home.png)  \
 landing page when reacing the site. clicking on the badge will take a user to the history of the club.
-![iphone history](assets/Screenshots/iphone_history.png)
+![iphone history](assets/Screenshots/iphone_history.png)  \
 detailed history for new and existing fans. you can navigate away from this page with the dropdown menu. images will not show as part of the page on mobile devices to allow for a responsive page.
-![iphone season](assets/Screenshots/iphone_season.png)
+![iphone season](assets/Screenshots/iphone_season.png)  \
 this page displays upcoming games a map to the stadium. it possible to navigate from here to the ticket sales page of cardiff city fc webpage ticket sales by using the <strong>ticket</strong> buttons. it is also possible to navigate to the cardif city WIKI by clicking the club badge.
-![iphone contact](assets/Screenshots/iphone_contact.png)
+![iphone contact](assets/Screenshots/iphone_contact.png)  \
 by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.
 
 the design is responsive to the iphone as demonstrated above.
@@ -77,32 +77,24 @@ by completeing the contact form this will take you through to a thank you page a
 
 <u>confirming site is responsive on the fold i continued testing and moved onto desktop testing with MS Edge</u>
 
-![Desktop Home](assets/Screenshots/desktop_dis_home.png)
-
+![Desktop Home](assets/Screenshots/desktop_dis_home.png)  \
 landing page when reacing the site. clicking on the badge will take a user to the history of the club.
-![Desktop History](assets/Screenshots/Desktop_dis_history.png)
-
+![Desktop History](assets/Screenshots/Desktop_dis_history.png)  \
 full display with images on page. navigation bar is shown in full with self explanitory navigation.
-![Desktop season](assets/Screenshots/desktop_dis_season.png)
-
+![Desktop season](assets/Screenshots/desktop_dis_season.png)  \
 display of a table will now return to the page with all elemaents displayed
-![Desktop contact](assets/Screenshots/desktop_dis_contact.png)
-
+![Desktop contact](assets/Screenshots/desktop_dis_contact.png)  \
 as with mobile completing the form will navigate you to a thank you page allowing you to return to the main site.
 
 <u>proving my concept on Edge testing continued on Firefox</u>
 
-![firefox Home](assets/Screenshots/firefox_home.png)
-
+![firefox Home](assets/Screenshots/firefox_home.png)  \
 landing page when reacing the site. clicking on the badge will take a user to the history of the club.
-![firefox Home](assets/Screenshots/firefox_history.png)
-
+![firefox Home](assets/Screenshots/firefox_history.png)  \
 full display with images on page. navigation bar is shown in full with self explanitory navigation.
-![firefox Home](assets/Screenshots/firefox_season.png)
-
+![firefox Home](assets/Screenshots/firefox_season.png)  \
 display of a table will now return to the page with all elemaents displayed
-![firefox Home](assets/Screenshots/firefox_contact.png)
-
+![firefox Home](assets/Screenshots/firefox_contact.png)  \
 as with mobile completing the form will navigate you to a thank you page allowing you to return to the main site.
 
 
@@ -110,11 +102,11 @@ as with mobile completing the form will navigate you to a thank you page allowin
 
 <h2>Sources</h2>
 
-history gathered from https://en.wikipedia.org/wiki/Cardiff_City_F.C.
-images from:
-badge - https://www.facebook.com/cardiffcityfc/
-ninian park - https://nigelblues.blogspot.com/2010/09/100-years-old-today-well-it-would-have.html
-promotion celebration - https://www.gettyimages.co.uk/detail/news-photo/cardiff-captain-sean-morrison-and-manager-neil-warnock-news-photo/955307338
-timeline assistance - https://mdbootstrap.com/docs/b4/jquery/plugins/timeline/
-upcoming games - https://www.cardiffcityfc.co.uk/fixture/list/594
+history gathered from https://en.wikipedia.org/wiki/Cardiff_City_F.C.  \
+images from:  \
+badge - https://www.facebook.com/cardiffcityfc/  \
+ninian park - https://nigelblues.blogspot.com/2010/09/100-years-old-today-well-it-would-have.html  \
+promotion celebration - https://www.gettyimages.co.uk/detail/news-photo/ \ cardiff-captain-sean-morrison-and-manager-neil-warnock-news-photo/955307338  \
+timeline assistance - https://mdbootstrap.com/docs/b4/jquery/plugins/timeline/  \
+upcoming games - https://www.cardiffcityfc.co.uk/fixture/list/594  \
 
