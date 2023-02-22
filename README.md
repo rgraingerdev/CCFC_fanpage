@@ -14,22 +14,22 @@ various sources were used for the images and are detailed in the credits section
 to be added at later date
 
 <h2>Technologies used</h2>
-*HTML - Was used for the structure of the page.
-*CSS - was used for the style of elements.
--Github - is the hosting site for storing the code and version control.
--balsamiq - used for wireframes.
-+Fontawesome - for icons on navbar.
-+google fonts - used for the Quicksand font.
-*Devtools - used for debugging and testing to ensure responsivness.
-*Google chrome lighthouse - used for testing.
--W3C HTML Validator - used for validating HTML of the page.
--W3C CSS validator - used for validating CSS of the page.
+* HTML - Was used for the structure of the page.
+* CSS - was used for the style of elements.
+* Github - is the hosting site for storing the code and version control.
+* balsamiq - used for wireframes.
+* Fontawesome - for icons on navbar.
+* google fonts - used for the Quicksand font.
+* Devtools - used for debugging and testing to ensure responsivness.
+* Google chrome lighthouse - used for testing.
+* W3C HTML Validator - used for validating HTML of the page.
+* W3C CSS validator - used for validating CSS of the page.
 
 <h2>Future features</h2>
 *add auto updates for upcoming fixtures.
 *a rolling gallery of images of past and present teams.
 
-## Deployment 
+<h2>Deployment</h2>
 1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
 2. Click on Settings on the top.
 3. Click on Pages on the menu on the left which will open GitHub Pages window.
@@ -37,14 +37,14 @@ to be added at later date
 5. From the drop down menu under branch select main, this tells GitHub which branch to use for the deployment. Click Save.
 6. The page should refresh and the deployment link should appear.
 
-### Creating a fork
+<h3>Creating a fork</h3>
 1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
 2. In the top-right corner of the page click on the fork button and select create a fork.
 3. You can change the name of the fork and add description 
 4. Choose to copy only the main branch or all branches to the new fork. 
 5. Click Create a Fork. A repository should appear in your GitHub
 
-### Cloning Repository
+<h3>Cloning Repository</h3>
 1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
 2. Click on the Code button on top of the repository and copy the link. 
 3. Open Git Bash and change the working directory to the location where you want the cloned directory. 
