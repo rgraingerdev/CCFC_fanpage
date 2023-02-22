@@ -49,29 +49,29 @@ the design is responsive to the iphone as demonstrated above.
 
 i continued testing with the galaxy fold.
 
-![fold Home](assets/Screenshots/fold_home.png)
+![fold Home](assets/Screenshots/fold_home.png)  \
 landing page when reacing the site. clicking on the badge will take a user to the history of the club.
-![fold history](assets/Screenshots/fold_history.png)
+![fold history](assets/Screenshots/fold_history.png)  \
 detailed history for new and existing fans. you can navigate away from this page with the dropdown menu. images will not show as part of the page on mobile devices to allow for a responsive page.
-![fold season](assets/Screenshots/fold_season.png)
+![fold season](assets/Screenshots/fold_season.png)  \
 this page displays upcoming games a map to the stadium. it possible to navigate from here to the ticket sales page of cardiff city fc webpage ticket sales by using the <strong>ticket</strong> buttons. it is also possible to navigate to the cardif city WIKI by clicking the club badge.
-![fold contact](assets/Screenshots/fold_contact.png)
+![fold contact](assets/Screenshots/fold_contact.png) \
 by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.
 
 
 <u>confirming the site is responsive on the fold with the screen closed i continued
 to test with the device open.</u>
 
-![Fold open home](assets/Screenshots/fold_open_home.png)
+![Fold open home](assets/Screenshots/fold_open_home.png)<br  />
 landing page when reacing the site. clicking on the badge will take a user to the history of the club.
 
-![Fold open history](assets/Screenshots/fold_open_history.png)
+![Fold open history](assets/Screenshots/fold_open_history.png)<br  />
 detailed history for new and existing fans. you can navigate away from this page with the dropdown menu. images will not show as part of the page on mobile devices to allow for a responsive page.
 
-![fold open season](assets/Screenshots/fold_open_season.png)
+![fold open season](assets/Screenshots/fold_open_season.png)<br  />
 this page displays upcoming games a map to the stadium. it possible to navigate from here to the ticket sales page of cardiff city fc webpage ticket sales by using the <strong>ticket</strong> buttons. it is also possible to navigate to the cardif city WIKI by clicking the club badge. as part of a larger screen size this returns the use of the wiki links and map to the stadium.
 
-![fold open contact](assets/Screenshots/fold_open_contact.png)
+![fold open contact](assets/Screenshots/fold_open_contact.png)<br  />
 by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.
 
 
