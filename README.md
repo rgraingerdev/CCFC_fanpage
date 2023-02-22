@@ -78,23 +78,31 @@ by completeing the contact form this will take you through to a thank you page a
 <u>confirming site is responsive on the fold i continued testing and moved onto desktop testing with MS Edge</u>
 
 ![Desktop Home](assets/Screenshots/desktop_dis_home.png)
+
 landing page when reacing the site. clicking on the badge will take a user to the history of the club.
 ![Desktop History](assets/Screenshots/Desktop_dis_history.png)
+
 full display with images on page. navigation bar is shown in full with self explanitory navigation.
 ![Desktop season](assets/Screenshots/desktop_dis_season.png)
+
 display of a table will now return to the page with all elemaents displayed
 ![Desktop contact](assets/Screenshots/desktop_dis_contact.png)
+
 as with mobile completing the form will navigate you to a thank you page allowing you to return to the main site.
 
 <u>proving my concept on Edge testing continued on Firefox</u>
 
 ![firefox Home](assets/Screenshots/firefox_home.png)
+
 landing page when reacing the site. clicking on the badge will take a user to the history of the club.
 ![firefox Home](assets/Screenshots/firefox_history.png)
+
 full display with images on page. navigation bar is shown in full with self explanitory navigation.
 ![firefox Home](assets/Screenshots/firefox_season.png)
+
 display of a table will now return to the page with all elemaents displayed
 ![firefox Home](assets/Screenshots/firefox_contact.png)
+
 as with mobile completing the form will navigate you to a thank you page allowing you to return to the main site.
 
 
