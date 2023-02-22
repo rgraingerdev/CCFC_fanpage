@@ -7,7 +7,17 @@ of available information motivated me to buld this project. I believe that my pr
 individuals wishing to learn more about the history of Cardiff City FC. I have gained a solid foundation of knowledge surrounding HTML, CSS and Bootstrap. 
 My project is user-friendly, informative and has bright vibrant colours. It features...(add more later) 
 
-<h2>Images</h2>
+## Design choices
+
+* the aim is for a first time user to be able to easily navigate.
+* color choice was around the football club colors.
+* This page was created for new and existing supporters of the club to have somewhere to check upcoming fixtures and keep track on progress on the current season
+
+## Font
+
+* The font was from Google fonts and it was chosen as it is smooth and easy for the end user to read.
+
+## Images
 various sources were used for the images and are detailed in the credits section.
 
 <h2>Wireframes</h2>
@@ -25,9 +35,11 @@ to be added at later date
 * W3C HTML Validator - used for validating HTML of the page.
 * W3C CSS validator - used for validating CSS of the page.
 
-<h2>Future features</h2>
-*add auto updates for upcoming fixtures.
-*a rolling gallery of images of past and present teams.
+## Future features
+* Add auto updates for upcoming fixtures.
+* A rolling gallery of images of past and present teams.
+* Add a live standings table to the season page.
+
 
 ## Deployment
 1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
@@ -145,11 +157,20 @@ as with mobile completing the form will navigate you to a thank you page allowin
 
 <h2>Sources</h2>
 
-history gathered from https://en.wikipedia.org/wiki/Cardiff_City_F.C.  \
-images from:  \
-badge - https://www.facebook.com/cardiffcityfc/  \
-ninian park - https://nigelblues.blogspot.com/2010/09/100-years-old-today-well-it-would-have.html  \
-promotion celebration - https://www.gettyimages.co.uk/detail/news-photo/ \ cardiff-captain-sean-morrison-and-manager-neil-warnock-news-photo/955307338  \
-timeline assistance - https://mdbootstrap.com/docs/b4/jquery/plugins/timeline/  \
-upcoming games - https://www.cardiffcityfc.co.uk/fixture/list/594  \
+upcoming games - https://www.cardiffcityfc.co.uk/fixture/list/594
+history gathered from https://en.wikipedia.org/wiki/Cardiff_City_F.C.
+## images from:
+* badge - https://www.facebook.com/cardiffcityfc/
+* ninian park - https://nigelblues.blogspot.com/2010/09/100-years-old-today-well-it-would-have.html
+* promotion celebration - https://www.gettyimages.co.uk/detail/news-photo/ * cardiff-captain-sean-morrison-and-manager-neil-warnock-news-photo/955307338 
+* timeline assistance - https://mdbootstrap.com/docs/b4/jquery/plugins/timeline/
+
+## Acknowledgements
+* thank you to my mentor for supporting me through this project
+* Everybody on slack for answering any questions i had along the way.
+
+## Comments
+
+I highly enjoyed the journey through this first project. i learned alot so much along this path already and am excited for more. in future i feel i really need to concentrate more on the mobile development first and not getting too excited and ahead of myself.
+
 
