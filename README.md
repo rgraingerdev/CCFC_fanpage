@@ -1,26 +1,69 @@
 ![Cardiff city](assets/images/Cardiff_City_Fanpage.png)
 
-<strong><u>General information</u></strong>
+<h1>General information</h1>
 
 I based my project on Cardiff City FC. The website is aimed at fans who wish to learn more about the history of the club. My passion for the club and lack
 of available information motivated me to buld this project. I believe that my project shares information, which was not easily accessible before; with 
 individuals wishing to learn more about the history of Cardiff City FC. I have gained a solid foundation of knowledge surrounding HTML, CSS and Bootstrap. 
 My project is user-friendly, informative and has bright vibrant colours. It features...(add more later) 
 
+<h2>Images</h2>
+various sources were used for the images and are detailed in the credits section.
 
-<strong><u>Page Testing</u></strong>
+<h2>Wireframes</h2>
+to be added at later date
 
-![Home](assets/Screenshots/Html_Checker_Home.png)
-One fault was initialy found with a stray closing div after the header. Removed and corrected.
+<h2>Technologies used</h2>
+*HTML - Was used for the structure of the page.
+*CSS - was used for the style of elements.
+-Github - is the hosting site for storing the code and version control.
+-balsamiq - used for wireframes.
++Fontawesome - for icons on navbar.
++google fonts - used for the Quicksand font.
+*Devtools - used for debugging and testing to ensure responsivness.
+*Google chrome lighthouse - used for testing.
+-W3C HTML Validator - used for validating HTML of the page.
+-W3C CSS validator - used for validating CSS of the page.
 
-![History](assets/Screenshots/Html_Checker_history.png)
-One fault was initialy found with a stray closing div after the header. Footer had also strayed outside the body element removed and corrected
+<h2>Future features</h2>
+*add auto updates for upcoming fixtures.
+*a rolling gallery of images of past and present teams.
 
-![Season](assets/Screenshots/Html_Checker_season.png)
-One fault was initialy found with a stray closing div after the header.
+## Deployment 
+1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
+2. Click on Settings on the top.
+3. Click on Pages on the menu on the left which will open GitHub Pages window.
+4. From the drop down menu under source select deploy from branch.
+5. From the drop down menu under branch select main, this tells GitHub which branch to use for the deployment. Click Save.
+6. The page should refresh and the deployment link should appear.
 
-![Contact us](assets/Screenshots/Html_Checker_contact.png)
-One fault was initialy found with a stray closing div after the header.
+### Creating a fork
+1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
+2. In the top-right corner of the page click on the fork button and select create a fork.
+3. You can change the name of the fork and add description 
+4. Choose to copy only the main branch or all branches to the new fork. 
+5. Click Create a Fork. A repository should appear in your GitHub
+
+### Cloning Repository
+1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
+2. Click on the Code button on top of the repository and copy the link. 
+3. Open Git Bash and change the working directory to the location where you want the cloned directory. 
+4. Type git clone and then paste the link.
+5. Press Enter to create your local clone.
+
+<h1>Page Testing</h1>
+
+![Home](assets/Screenshots/Html_Checker_Home.png)  \
+One fault was initialy found with a stray closing div after the header. Removed and corrected.  \
+
+![History](assets/Screenshots/Html_Checker_history.png)  \
+One fault was initialy found with a stray closing div after the header. Footer had also strayed outside the body element removed and corrected.  \
+
+![Season](assets/Screenshots/Html_Checker_season.png)  \
+One fault was initialy found with a stray closing div after the header.  \
+
+![Contact us](assets/Screenshots/Html_Checker_contact.png)  \
+One fault was initialy found with a stray closing div after the header.  \
 
 known bugs - none
 
@@ -32,12 +75,12 @@ Bugs during writing were identified and corrected. A tricky bug to resolve was t
 ![Desktop](assets/Screenshots/PageSpeed_desktop.png)
 **page speed passed on Desktop
 
-<strong><u>Display Testsing</u></strong>
+<h1>Display Testsing and Features</h1>
 
-**i started with mobile testing with the iphone and galaxy fold
+*i started with mobile testing with the iphone and galaxy fold*
 
 ![iphone home](assets/Screenshots/iphone_home.png)  \
-landing page when reacing the site. clicking on the badge will take a user to the history of the club.
+landing page when reaching the site. clicking on the badge will take a user to the history of the club.
 ![iphone history](assets/Screenshots/iphone_history.png)  \
 detailed history for new and existing fans. you can navigate away from this page with the dropdown menu. images will not show as part of the page on mobile devices to allow for a responsive page.
 ![iphone season](assets/Screenshots/iphone_season.png)  \
@@ -45,25 +88,25 @@ this page displays upcoming games a map to the stadium. it possible to navigate 
 ![iphone contact](assets/Screenshots/iphone_contact.png)  \
 by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.
 
-the design is responsive to the iphone as demonstrated above.
+<em>the design is responsive to the iphone as demonstrated above.</em>
 
 i continued testing with the galaxy fold.
 
 ![fold Home](assets/Screenshots/fold_home.png)  \
-landing page when reacing the site. clicking on the badge will take a user to the history of the club.
+landing page when reaching the site. clicking on the badge will take a user to the history of the club.
 ![fold history](assets/Screenshots/fold_history.png)  \
-detailed history for new and existing fans. you can navigate away from this page with the dropdown menu. images will not show as part of the page on mobile devices to allow for a responsive page.
+detailed history for new and existing fans. you can navigate away from this page with the dropdown menu. images will not show as part of the page on mobile devices to allow for a responsive page.  \
 ![fold season](assets/Screenshots/fold_season.png)  \
-this page displays upcoming games a map to the stadium. it possible to navigate from here to the ticket sales page of cardiff city fc webpage ticket sales by using the <strong>ticket</strong> buttons. it is also possible to navigate to the cardif city WIKI by clicking the club badge.
+this page displays upcoming games a map to the stadium. it possible to navigate from here to the ticket sales page of cardiff city fc webpage ticket sales by using the <strong>ticket</strong> buttons. it is also possible to navigate to the cardif city WIKI by clicking the club badge.  \
 ![fold contact](assets/Screenshots/fold_contact.png) \
-by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.
+by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.  \
 
 
-<u>confirming the site is responsive on the fold with the screen closed i continued
-to test with the device open.</u>
+<em>confirming the site is responsive on the fold with the screen closed i continued
+to test with the device open.</em>
 
 ![Fold open home](assets/Screenshots/fold_open_home.png)<br  />
-landing page when reacing the site. clicking on the badge will take a user to the history of the club.
+landing page when reaching the site. clicking on the badge will take a user to the history of the club.
 
 ![Fold open history](assets/Screenshots/fold_open_history.png)<br  />
 detailed history for new and existing fans. you can navigate away from this page with the dropdown menu. images will not show as part of the page on mobile devices to allow for a responsive page.
@@ -75,10 +118,10 @@ this page displays upcoming games a map to the stadium. it possible to navigate 
 by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.
 
 
-<u>confirming site is responsive on the fold i continued testing and moved onto desktop testing with MS Edge</u>
+<em>confirming site is responsive on the fold i continued testing and moved onto desktop testing with MS Edge</em>
 
 ![Desktop Home](assets/Screenshots/desktop_dis_home.png)  \
-landing page when reacing the site. clicking on the badge will take a user to the history of the club.
+landing page when reaching the site. clicking on the badge will take a user to the history of the club.
 ![Desktop History](assets/Screenshots/Desktop_dis_history.png)  \
 full display with images on page. navigation bar is shown in full with self explanitory navigation.
 ![Desktop season](assets/Screenshots/desktop_dis_season.png)  \
@@ -86,7 +129,7 @@ display of a table will now return to the page with all elemaents displayed
 ![Desktop contact](assets/Screenshots/desktop_dis_contact.png)  \
 as with mobile completing the form will navigate you to a thank you page allowing you to return to the main site.
 
-<u>proving my concept on Edge testing continued on Firefox</u>
+<em>proving my concept on Edge testing continued on Firefox</em>
 
 ![firefox Home](assets/Screenshots/firefox_home.png)  \
 landing page when reacing the site. clicking on the badge will take a user to the history of the club.
@@ -98,7 +141,7 @@ display of a table will now return to the page with all elemaents displayed
 as with mobile completing the form will navigate you to a thank you page allowing you to return to the main site.
 
 
-<u>happy that the site is displaying as expected i completed my testing here.</u>
+<em>happy that the site is displaying as expected i completed my testing here.</em>
 
 <h2>Sources</h2>
 
