@@ -217,6 +217,12 @@ form {
   text-align: center;
 }
 
+.thanks {
+  text-align: center;
+  justify-content: center;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+}
 
 /*-----------------------------------timeline------------------------------------------*/
 
