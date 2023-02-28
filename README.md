@@ -22,7 +22,7 @@ various sources were used for the images and are detailed in the credits section
 
 ## Wireframes
 * I began my project with wireframing my design please follow the link below to view
-* Click here for wireframes [here](../milestone1_2/assets/Screenshots/Milestone%20Project%201.bmpr)
+* Click here for wireframes [here](.././milestone1_2/assets/Screenshots/wireframes.bmpr)
 
 ## Technologies used
 * HTML - Was used for the structure of the page.
