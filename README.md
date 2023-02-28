@@ -113,9 +113,9 @@ landing page when reaching the site. clicking on the badge will take a user to t
 ![fold history](assets/Screenshots/fold_history.png)  \
 detailed history for new and existing fans. you can navigate away from this page with the dropdown menu. images will not show as part of the page on mobile devices to allow for a responsive page.  \
 ![fold season](assets/Screenshots/fold_season.png)  \
-this page displays upcoming games a map to the stadium. it possible to navigate from here to the ticket sales page of cardiff city fc webpage ticket sales by using the <strong>ticket</strong> buttons. it is also possible to navigate to the cardif city WIKI by clicking the club badge.  \
+this page displays upcoming games a map to the stadium. it possible to navigate from here to the ticket sales page of cardiff city fc webpage ticket sales by using the <strong>ticket</strong> buttons. it is also possible to navigate to the cardif city WIKI by clicking the club badge.
 ![fold contact](assets/Screenshots/fold_contact.png) \
-by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.  \
+by completeing the contact form this will take you through to a thank you page and it will allow you to navigate back to the main page.
 
 
 <em>confirming the site is responsive on the fold with the screen closed i continued
