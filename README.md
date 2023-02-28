@@ -20,8 +20,9 @@ My project is user-friendly, informative and has bright vibrant colours. It feat
 ## Images
 various sources were used for the images and are detailed in the credits section.
 
-<h2>Wireframes</h2>
-to be added at later date
+## Wireframes
+* I began my project with wireframing my design please follow the link below to view
+* Click here for wireframes [here](../milestone1_2/assets/Screenshots/Milestone%20Project%201.bmpr)
 
 ## Technologies used
 * HTML - Was used for the structure of the page.
