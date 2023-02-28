@@ -21,8 +21,11 @@ My project is user-friendly, informative and has bright vibrant colours. It feat
 various sources were used for the images and are detailed in the credits section.
 
 ## Wireframes
-* I began my project with wireframing my design please follow the link below to view
-* Click here for wireframes [here](.././milestone1_2/assets/Screenshots/wireframes.bmpr)
+* I began my project with wireframing my design below:
+* ![wireframe](assets/Screenshots/wireframemobile.png)
+* ![wireframe desktop](assets/Screenshots/wireframe1.png)
+* ![wireframe desktop 2](assets/Screenshots/wireframe2.png)
+* ![wireframe desktop 3](assets/Screenshots/wireframe3.png)
 
 ## Technologies used
 * HTML - Was used for the structure of the page.
