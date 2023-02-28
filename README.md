@@ -70,16 +70,16 @@ various sources were used for the images and are detailed in the credits section
 <h1>Page Testing</h1>
 
 ![Home](assets/Screenshots/Html_Checker_Home.png)  \
-One fault was initialy found with a stray closing div after the header. Removed and corrected.  \
+One fault was initialy found with a stray closing div after the header. Removed and corrected.
 
 ![History](assets/Screenshots/Html_Checker_history.png)  \
-One fault was initialy found with a stray closing div after the header. Footer had also strayed outside the body element removed and corrected.  \
+One fault was initialy found with a stray closing div after the header. Footer had also strayed outside the body element removed and corrected.
 
 ![Season](assets/Screenshots/Html_Checker_season.png)  \
-One fault was initialy found with a stray closing div after the header.  \
+One fault was initialy found with a stray closing div after the header.
 
 ![Contact us](assets/Screenshots/Html_Checker_contact.png)  \
-One fault was initialy found with a stray closing div after the header.  \
+One fault was initialy found with a stray closing div after the header.
 
 known bugs - none
 
