@@ -78,13 +78,16 @@ font-size: 0;
 }
 
 .clubcrest {
-  display: grid;
-  justify-content: center;
-  margin-right: 10%;
+  position: absolute;
+  left: 48%;
+  margin-top: 5%;
+  transform: translate(-50%, -50%);
+ 
 }
 
 #crest {
   border-radius: 50%;
+  align-items: center;
 }
 
 #players {
@@ -297,6 +300,16 @@ form {
   }
   .medalign {
     justify-content: center;
+  }
+  .clubcrest {
+    position: relative;
+    display: inline-flex;
+    left: 50%;
+
+  }
+  .map {
+    position: relative;
+    margin-top: 90px;
   }
 }
 
