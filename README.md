@@ -65,18 +65,21 @@ Bugs during writing were identified and corrected. A tricky bug to resolve was t
 
 Continuing with testing, I tested the page accross multiple devices(Iphone, Galaxy Fold, Edge and Firefox) ensuring all links and pages loaded all elements correctly and promptly. I ran all images through tinypng to ensure load times were minimised improving end user experince.
 
-![iphone home](assets/Screenshots/iphone_home.png)  \
+![iphone home](assets/Screenshots/iphone_home.png)  
 
 
-![fold contact](assets/Screenshots/fold_contact.png) \
+![fold contact](assets/Screenshots/fold_contact.png) 
 
-![Fold open history](assets/Screenshots/fold_open_history.png)<br  />
-
-
-![Desktop Home](assets/Screenshots/desktop_dis_home.png)  \
+![Fold open history](assets/Screenshots/fold_open_history.png)
 
 
-![firefox Home](assets/Screenshots/firefox_season.png)  \
+![Desktop Home](assets/Screenshots/desktop_dis_home.png)
+
+
+![firefox Home](assets/Screenshots/firefox_season.png)  
+
+I selected a bootstrap header to allow me to utilise the menu display and hide feature this was tested relentlesly through this design on all platforms.
+A map was also added to this using iframes to guide users to the stadium location.
 
 ## Deployment
 1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
