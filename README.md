@@ -9,9 +9,9 @@ My project is user-friendly, informative and has bright vibrant colours. It feat
 
 ## UI/UX
 
-* the aim is for a first time user to be able to easily navigate.
-* color choice was around the football club colors.
-* This page was created for new and existing supporters of the club to have somewhere to check upcoming fixtures and keep track on progress on the current season
+* The aim is for a first time user to be able to easily navigate.
+* Color choice was around the football club colors.
+* This page was created for new and existing supporters of the club, to have somewhere to check upcoming fixtures and keep track of progress on the current season.
 
 ### Future features
 * Add auto updates for upcoming fixtures.
@@ -53,17 +53,17 @@ Corrected an issue with consecutive -- in comments.
 
 ### known bugs - none
 
-Bugs during writing were identified and corrected. A tricky bug to resolve was the footer covering some details at the botton of the page. when trying to correct this it also got stuck in the middle of the page covering some elements. this has been corrected and now responds correctly across all pages.
+Bugs during writing were identified and corrected. A tricky bug to resolve was the footer covering some details at the botton of the page. when trying to correct this it also got stuck in the middle of the page covering some elements. This has been corrected and now responds correctly across all pages.
 
 ![Mobile](assets/Screenshots/PageSpeed_mobile.png)
 **Page speed passed testing on mobile
 
 ![Desktop](assets/Screenshots/PageSpeed_desktop.png)
-**page speed passed on Desktop
+**Page speed passed on Desktop
 
 ### Display Testsing and Features
 
-Continuing with testing, I tested the page accross multiple devices(Iphone, Galaxy Fold, Edge and Firefox) ensuring all links and pages loaded all elements correctly and promptly. I ran all images through tinypng to ensure load times were minimised improving end user experince.
+Continuing with testing, I tested the page accross multiple devices (Iphone, Galaxy Fold, Edge and Firefox) ensuring all links and pages loaded all elements correctly and promptly. I ran all images through tinypng to ensure load times were minimised improving end user experince.
 
 ![iphone home](assets/Screenshots/iphone_home.png)  
 
@@ -79,7 +79,7 @@ Continuing with testing, I tested the page accross multiple devices(Iphone, Gala
 ![firefox Home](assets/Screenshots/firefox_season.png)  
 
 I selected a bootstrap header to allow me to utilise the menu display and hide feature this was tested relentlesly through this design on all platforms.
-A map was also added to this using iframes to guide users to the stadium location.
+A map was also added to this using iframes to guide users to the stadiums location.
 
 ## Deployment
 1. Navigate to the [repository](https://github.com/rgraingerdev/Milestone-project)
@@ -115,7 +115,7 @@ history gathered from https://en.wikipedia.org/wiki/Cardiff_City_F.C.
 * timeline assistance - https://mdbootstrap.com/docs/b4/jquery/plugins/timeline/
 
 ## Acknowledgements
-* thank you to my mentor for supporting me through this project
+* Thank you to my mentor for supporting me through this project
 * Everybody on slack for answering any questions i had along the way.
 
 
