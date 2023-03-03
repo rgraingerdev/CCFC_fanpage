@@ -44,17 +44,12 @@ My project is user-friendly, informative and has bright vibrant colours. It feat
 
 ## Page Testing
 
+Using W3schools HTML validator i completed error testing.
+
 ![Home](assets/Screenshots/Html_Checker_Home.png)  \
 One fault was initialy found with a stray closing div after the header. Removed and corrected.
+Corrected an issue with consecutive -- in comments.
 
-![History](assets/Screenshots/Html_Checker_history.png)  \
-One fault was initialy found with a stray closing div after the header. Footer had also strayed outside the body element removed and corrected.
-
-![Season](assets/Screenshots/Html_Checker_season.png)  \
-One fault was initialy found with a stray closing div after the header.
-
-![Contact us](assets/Screenshots/Html_Checker_contact.png)  \
-One fault was initialy found with a stray closing div after the header.
 
 ### known bugs - none
 
