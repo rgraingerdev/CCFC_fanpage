@@ -70,6 +70,14 @@ iframe {
 font-size: 0;
 }
 
+.navbar-light .navbar-brand {
+  color: azure;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: azure;
+}
+
 /*----------------------------------------images------------------------------------------------*/
 
 #badge {
@@ -312,7 +320,7 @@ form {
     position: relative;
     display: inline-flex;
     align-content: center;
-    margin-top: 140px;
+    margin-top: 220px;
   }
 }
 
