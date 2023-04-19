@@ -68,6 +68,7 @@ Please contact us via the website's contact form if you experience any problems 
 Testing began with automated testing as per the table below with screenshots.
 
 |Test |Lighthouse| W3 html validator| W3 schools jigsaw| 
+|-----|-----|-----|-----|
 |home| Pass| Pass| Pass|
 |History| Pass| Pass| Pass|
 |Season| Pass| Pass| Pass|
@@ -75,9 +76,9 @@ Testing began with automated testing as per the table below with screenshots.
 
 ![Home](assets/Screenshots/Html_Checker_Home.png)  
 
-![Lighthouse](assets/Screenshots/lighthouse_desktop.png)
+![Lighthouse](assets/Screenshots/lighthuse_desktop.png)
 
-![Lighthoused](assets/Screenshots/lighthouse-testing.png)
+![Lighthoused](assets/Screenshots/Lighthouse-testing.png)
 
 ### Manual testing
 
