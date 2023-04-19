@@ -68,7 +68,6 @@ Please contact us via the website's contact form if you experience any problems 
 Testing began with automated testing as per the table below with screenshots.
 
 |Test |Lighthouse| W3 html validator| W3 schools jigsaw| 
-|-----|-----|-----|-----|
 |home| Pass| Pass| Pass|
 |History| Pass| Pass| Pass|
 |Season| Pass| Pass| Pass|
@@ -76,21 +75,23 @@ Testing began with automated testing as per the table below with screenshots.
 
 ![Home](assets/Screenshots/Html_Checker_Home.png)  
 
-![Lighthouse](assets/Screenshots/lighthuse_desktop.png)
+![Home](assets/Screenshots/lighthouse testing desktop.png)
 
-![Lighthoused](assets/Screenshots/Lighthouse-testing.png)
+![Home](assets/Screenshots/lighthouse-testing.png)
 
 ### Manual testing
 
-* The feature for navigation Home/History/Season/Contact are all expected to move to desired page on click this was tested by pressing each link on every page to ensure navigation to the correct pages.
-* The menu drop down on mobile is expected to drop down on click revealing navigation options. this was tested on each page by clicking the icon expecting this result. initially this was noted as a bug as it would not drop down this was later fixed by adding the correct bootstrap link in the head.
-* Social links on the bottom of the page were individually tested expecting to be redirected to the correct social page on click. this was tested across all pages by manual clicking on each link.
-* Upcoming fixtures feature was tested on the season page by clicking each button to ensure correct redirection to the Cardiff City ticketing office.
-* Map feature was manually tested across multiple browsers inc, Chrome, Firefox, Safari and Edge ensuring it displayed correctly.
-* The Wiki redirect in the badge on seasons page was tested for the correct redirection by clicking the icon expecting to reach CCFC Wiki page.
-* The contact form was tested by inputting all details required to reach the thank you page.
-* Each input box was tested on the contact form expected to submit after all boxes are filled. attempted to submit with blank boxes and was prompted for input as expected. attempted with some boxes completed and others not expecting error 'required' and achieved this. 
-* History page needs to be accessible this was tested from all pages by clicking the history link to gain access to this page. 
+| Feature | Expect | Action | Result |
+|-----|-----|-----|-----|-----|
+|Enter button| To navigate to history page | clicked the enter button | Opened history page correctly |
+|Nav links | When clicked navigate to page | Clicked all nav links on all pages| All pages opened as expected|
+|Social link icons | Social link icons to open links in new tab| clicked social link icons| Link opened in new tab and on correct site|
+|Contact form | To  submit for when inputs are filled | left form blank and attempted submit/filled form and submitted | prompted to fill input boxes/ submitted to input page|
+|Ticket buttons | to open in new tab on ticket office | clicked ticket buttons | navigated to ticket office in new tab|
+|Season badge button | To open CCFC wiki in new tab | clicked the button | opened CCFC wiki in new tab|
+|Map | To display a map to stadium | opened in multiple browsers and devices | displayed correctly|
+|Menu Drop down | To drop down on mobile and tablet devices | opened on mutiple devices and pressed button | menu droped and displayed correctly|
+|return home button | to navigate back to history page after form submission | clicked return home button | returned to history page |
 
 Continuing with testing, I tested the page across multiple devices (iPhone, Galaxy Fold, Edge and Firefox) ensuring all links and pages loaded all elements correctly and promptly.
 
