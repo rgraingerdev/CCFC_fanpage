@@ -75,9 +75,9 @@ Testing began with automated testing as per the table below with screenshots.
 
 ![Home](assets/Screenshots/Html_Checker_Home.png)  
 
-![Home](assets/Screenshots/lighthouse testing desktop.png)
+![Lighthouse](assets/Screenshots/lighthouse_desktop.png)
 
-![Home](assets/Screenshots/lighthouse-testing.png)
+![Lighthoused](assets/Screenshots/lighthouse-testing.png)
 
 ### Manual testing
 
