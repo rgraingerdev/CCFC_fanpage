@@ -68,6 +68,7 @@ Please contact us via the website's contact form if you experience any problems 
 Testing began with automated testing as per the table below with screenshots.
 
 |Test |Lighthouse| W3 html validator| W3 schools jigsaw| 
+|-----|-----|-----|-----|
 |home| Pass| Pass| Pass|
 |History| Pass| Pass| Pass|
 |Season| Pass| Pass| Pass|
@@ -82,7 +83,7 @@ Testing began with automated testing as per the table below with screenshots.
 ### Manual testing
 
 | Feature | Expect | Action | Result |
-|-----|-----|-----|-----|-----|
+|-----|-----|-----|-----|
 |Enter button| To navigate to history page | clicked the enter button | Opened history page correctly |
 |Nav links | When clicked navigate to page | Clicked all nav links on all pages| All pages opened as expected|
 |Social link icons | Social link icons to open links in new tab| clicked social link icons| Link opened in new tab and on correct site|
