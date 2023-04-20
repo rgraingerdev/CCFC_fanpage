@@ -12,8 +12,12 @@ I have developed user stories to direct my design and development process; in or
 
 * As a supporter of Cardiff City, I want to be able to swiftly and conveniently find out the latest information on the squad.
 * I want to be able to see upcoming fixtures.
+* I want to be able to book tickets for upcoming fixtures.
 * I want to have access to the most recent standings and top scorers.
 * I want to learn more about Cardiff City club history.
+* i want to be able to easily navigate the website.
+* I want to be able to contact the page creator with my questions.
+
 
 By developing user stories, I can make sure that the website satisfies user needs and offers a satisfying browsing experience. I regularly gather user feedback and apply it to the design and functionality of the website.
 
@@ -72,7 +76,13 @@ Testing began with automated testing as per the table below with screenshots.
 |Season| Pass| Pass| Pass|
 |Contact| Pass | Pass| Pass|
 
-![Home](assets/Screenshots/Html_Checker_Home.png)  
+![Home](assets/Screenshots/validator_home.png)  
+
+![Home](assets/Screenshots/validator_history.png)  
+
+![Home](assets/Screenshots/validator_season.png)  
+
+![Home](assets/Screenshots/validator_contact.png)  
 
 ![Home](assets/Screenshots/lighthuse_desktop.png)
 
@@ -80,17 +90,28 @@ Testing began with automated testing as per the table below with screenshots.
 
 ### Manual testing
 
-| Feature | Expect | Action | Result |
-|-----|-----|-----|-----|
-|Enter button| To navigate to history page | clicked the enter button | Opened history page correctly |
-|Nav links | When clicked navigate to page | Clicked all nav links on all pages| All pages opened as expected|
-|Social link icons | Social link icons to open links in new tab| clicked social link icons| Link opened in new tab and on correct site|
-|Contact form | To  submit for when inputs are filled | left form blank and attempted submit/filled form and submitted | prompted to fill input boxes/ submitted to input page|
-|Ticket buttons | to open in new tab on ticket office | clicked ticket buttons | navigated to ticket office in new tab|
-|Season badge button | To open CCFC wiki in new tab | clicked the button | opened CCFC wiki in new tab|
-|Map | To display a map to stadium | opened in multiple browsers and devices | displayed correctly|
-|Menu Drop down | To drop down on mobile and tablet devices | opened on mutiple devices and pressed button | menu droped and displayed correctly|
-|return home button | to navigate back to history page after form submission | clicked return home button | returned to history page |
+| Feature | Expect | Action | Result | Pass/Fail |
+|-----|-----|-----|-----|-----|
+|Enter button| To navigate to history page | clicked the enter button | Opened history page correctly | Pass |
+|Nav links | When clicked navigate to page | Clicked all nav links on all pages| All pages opened as expected| Pass
+|Social link icons | Social link icons to open links in new tab| clicked social link icons| Link opened in new tab and on correct site| Pass|
+|Menu Drop down | To drop down on mobile and tablet devices | opened on mutiple devices and pressed button | menu droped and displayed correctly| Pass|
+
+#### Contact form
+
+| Feature | Expect | Action | Result | Pass/Fail |
+|-----|-----|-----|-----|-----|
+|Contact form | To  submit for when inputs are filled | left form blank and attempted submit/filled form and submitted | prompted to fill input boxes/ submitted to input page| Pass|
+|return home button | to navigate back to history page after form submission | clicked return home button | returned to history page | Pass |
+
+#### Seasons page
+
+| Feature | Expect | Action | Result | Pass/Fail |
+|-----|-----|-----|-----|-----|
+|Ticket buttons | to open in new tab on ticket office | clicked ticket buttons | navigated to ticket office in new tab| Pass |
+|Season badge button | To open CCFC wiki in new tab | clicked the button | opened CCFC wiki in new tab| Pass|
+|Map | To display a map to stadium | opened in multiple browsers and devices | displayed correctly| Pass|
+
 
 Continuing with testing, I tested the page across multiple devices (iPhone, Galaxy Fold, Edge and Firefox) ensuring all links and pages loaded all elements correctly and promptly.
 
