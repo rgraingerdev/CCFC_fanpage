@@ -1,15 +1,13 @@
 ![Cardiff city](assets/images/Cardiff_City_Fanpage.png)
 
-# Fan Page for CCFC
+Welcome To the CCFC Fan Page, The Cardiff City Football Club and everything it stands for are the focus of this website. You can find upcoming fixtures, top scorers and the history.
 
-To the CCFC Fan Page, welcome! The Cardiff City Football Club and everything it stands for are the focus of this website. You can find player profiles, match reports, the most recent news, and much more right here.
+## Getting Started
 
-## Getting Going
-
-Visit https://rgraingerdev.github.io/CCFCfanpage/ on your choice web browser to access the CCFC Fan Page. The website is totally responsive, so regardless of whether you're using a desktop computer, tablet, or smartphone, it should look excellent on all of them.
+Visit https://rgraingerdev.github.io/CCFCfanpage/ on your preferred web browser to access the CCFC Fan Page. The website is completely responsive; regardless of whether you're using a desktop computer, tablet or smartphone, it should look excellent on all of them.
 
 ## User Storys
-We have developed user stories to direct our design and development process in order to make sure that the CCFC Fan Page satisfies the requirements of our users. Here are some usage examples for user stories:
+I have developed user stories to direct my design and development process; in order to make sure that the CCFC Fan Page satisfies the requirements of my users. Here are some usage examples for user stories:
 
 
 * As a supporter of Cardiff City, I want to be able to swiftly and conveniently find out the latest information on the squad.
@@ -17,7 +15,7 @@ We have developed user stories to direct our design and development process in o
 * I want to have access to the most recent standings and top scorers.
 * I want to learn more about Cardiff City club history.
 
-By developing user stories, we can make sure that the website satisfies user needs and offers a satisfying browsing experience. We regularly gather user feedback and apply it to the design and functionality of the website.
+By developing user stories, I can make sure that the website satisfies user needs and offers a satisfying browsing experience. I regularly gather user feedback and apply it to the design and functionality of the website.
 
 ## UI/UX
 
@@ -59,9 +57,9 @@ The CCFC Fan Page has undergone comprehensive testing to guarantee that it opera
 
 Systems running Windows, macOS, and Linux.
 Web browsers such as Safari, Edge, Firefox and Chrome that can run on mobile and desktop.
-We carried out user testing to gather opinions from people. We used this feedback to improve the website's functionality and appearance.
+I carried out user testing to gather opinions from people. I used this feedback to improve the website's functionality and appearance.
 
-Please contact us via the website's contact form if you experience any problems while using the CCFC Fan Page. We consider all comments carefully and attempt to resolve any problems as soon as possible.
+Please contact me via the website's contact form if you experience any problems while using the CCFC Fan Page. I consider all comments carefully and attempt to resolve any problems as soon as possible.
 
 ### Page Testing
 
