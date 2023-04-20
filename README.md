@@ -17,6 +17,8 @@ I have developed user stories to direct my design and development process; in or
 * I want to learn more about Cardiff City club history.
 * i want to be able to easily navigate the website.
 * I want to be able to contact the page creator with my questions.
+* I want to be able to know where the stadium is located.
+* I want to be able to view the webpage on mobile or tablet.
 
 
 By developing user stories, I can make sure that the website satisfies user needs and offers a satisfying browsing experience. I regularly gather user feedback and apply it to the design and functionality of the website.
