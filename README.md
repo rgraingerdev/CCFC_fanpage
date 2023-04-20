@@ -41,6 +41,7 @@ By developing user stories, I can make sure that the website satisfies user need
 
 ## Wireframes
 * I began my project with wireframing my design below:
+
 * ![wireframe](assets/Screenshots/wireframemobile.png)
 * ![wireframe desktop](assets/Screenshots/wireframe1.png)
 * ![wireframe desktop 2](assets/Screenshots/wireframe2.png)
