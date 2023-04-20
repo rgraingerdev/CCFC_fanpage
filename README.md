@@ -90,6 +90,8 @@ Testing began with automated testing as per the table below with screenshots.
 
 ### Manual testing
 
+#### Home page
+
 | Feature | Expect | Action | Result | Pass/Fail |
 |-----|-----|-----|-----|-----|
 |Enter button| To navigate to history page | clicked the enter button | Opened history page correctly | Pass |
@@ -101,13 +103,28 @@ Testing began with automated testing as per the table below with screenshots.
 
 | Feature | Expect | Action | Result | Pass/Fail |
 |-----|-----|-----|-----|-----|
+|Nav links | When clicked navigate to page | Clicked all nav links on all pages| All pages opened as expected| Pass
+|Menu Drop down | To drop down on mobile and tablet devices | opened on mutiple devices and pressed button | menu droped and displayed correctly| Pass|
+|Social link icons | Social link icons to open links in new tab| clicked social link icons| Link opened in new tab and on correct site| Pass|
 |Contact form | To  submit for when inputs are filled | left form blank and attempted submit/filled form and submitted | prompted to fill input boxes/ submitted to input page| Pass|
 |return home button | to navigate back to history page after form submission | clicked return home button | returned to history page | Pass |
+
+
+#### History page
+
+| Feature | Expect | Action | Result | Pass/Fail |
+|-----|-----|-----|-----|-----|
+|Nav links | When clicked navigate to page | Clicked all nav links on all pages| All pages opened as expected| Pass
+|Menu Drop down | To drop down on mobile and tablet devices | opened on mutiple devices and pressed button | menu droped and displayed correctly| Pass|
+|Social link icons | Social link icons to open links in new tab| clicked social link icons| Link opened in new tab and on correct site| Pass|
 
 #### Seasons page
 
 | Feature | Expect | Action | Result | Pass/Fail |
 |-----|-----|-----|-----|-----|
+|Nav links | When clicked navigate to page | Clicked all nav links on all pages| All pages opened as expected| Pass
+|Menu Drop down | To drop down on mobile and tablet devices | opened on mutiple devices and pressed button | menu droped and displayed correctly| Pass|
+|Social link icons | Social link icons to open links in new tab| clicked social link icons| Link opened in new tab and on correct site| Pass|
 |Ticket buttons | to open in new tab on ticket office | clicked ticket buttons | navigated to ticket office in new tab| Pass |
 |Season badge button | To open CCFC wiki in new tab | clicked the button | opened CCFC wiki in new tab| Pass|
 |Map | To display a map to stadium | opened in multiple browsers and devices | displayed correctly| Pass|
